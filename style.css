@@ -35,8 +35,9 @@
     padding: 24px 0;
 }
 
-.escolimagema-div-conteudo{
+.escola-div-conteudo{
     width: 25%;
+    align-items: center;
 }
 .escola-titulo{
     padding: 24px 0;
