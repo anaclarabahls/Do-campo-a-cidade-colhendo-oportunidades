@@ -43,6 +43,16 @@
     align-items center
 }
 
+.escola-texto-um{
+    padding: 20px 0;
+    align-items center
+}
+
+.escola-texto-dois{
+    padding: 20px 0;
+    align-items center
+}
+
 .estudante{ 
     padding: 24px 0;
 }
