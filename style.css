@@ -38,6 +38,10 @@
 .escola-div-conteudo{
     width: 25%;
     align-items: center;
+    padding: 20px 1;
+    padding: 10px 0;
+}
+
 }
 .escola-titulo{
     padding: 24px 0;
