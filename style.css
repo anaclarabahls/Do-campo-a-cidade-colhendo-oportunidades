@@ -45,6 +45,7 @@
 .escola-titulo{
     padding: 24px 0;
     align-items: center;
+    text-align: justify;
 }
 
 .escola-texto-um{
@@ -57,7 +58,7 @@
     margin: 0 10px;
     padding: 20px 0;  
     align-content: baseline;
-
+    justify-content:  ; 
 }
 
 .estudante{ 
