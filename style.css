@@ -30,7 +30,8 @@
     background-image: linear-gradient(#90dddd,#2b9ea7);
     color:white;
     display: flex;
-   
+    justify-content: center;
+    align-items: center;
     padding: 24px 0;
 }
 
@@ -57,7 +58,7 @@
     margin: 0 10px;
     padding: 20px 0;  
     align-content: baseline;
-    justify-content:space-around  ; 
+    justify-content:space-around; 
 }
 
 .estudante{ 
